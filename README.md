@@ -1,3 +1,1 @@
-$sync
-sync$
 Qwik api

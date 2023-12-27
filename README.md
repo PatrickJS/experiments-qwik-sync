@@ -1,5 +1,3 @@
-Qwik api
+# Qwik sync$ api
 
-
-
-sync$
+> sync$ was merged into qwik 1.3.1
